@@ -26,6 +26,10 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I'm Still Student;
 - 📫 How to reach me: isuruumayanga035@gmail.com
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 **Languages and Tools:** 
 
 <!-- Your github readme stats
