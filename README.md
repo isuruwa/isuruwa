@@ -94,9 +94,9 @@ I created these images, feel free to use them.
 ---
 
 <h3 align="left"> My Github Stats:</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=an0nud4y&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+<img src="https://github-profile-trophy.vercel.app/?username=isuruwa&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an0nud4y&show_icons=true&count_private=true&theme=dark" alt="subeshb1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&count_private=true&theme=dark" alt="subeshb1" /></p>
 
 
 
