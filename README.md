@@ -1,5 +1,5 @@
 <font>
-<font size = "5" color = "red">
+<font color = "red">
 All Tools Are Outdated.
 Updating Soon 
 </font>
