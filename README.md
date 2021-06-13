@@ -1,5 +1,8 @@
 <font color = "#009900">☣ All Tools Are Outdated . Updating Soon . Expect Us . ☣</font><br >
 <br>
+<img src="https://img.shields.io/badge/LATEST%20UPDATED-UPDATED-brightgreen?style=for-the-badge&logo=appveyor">
+## UPDATED :
+<img src="https://img.shields.io/badge/isuruwa-SMS-blueviolet?style=flat-square&logo=appveyor">
 <!-- Your title -->
 ## Hi, I'm Isuru Umayanga, a Developer from Sri Lanka 🇱🇰.
 
