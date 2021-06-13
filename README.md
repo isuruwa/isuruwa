@@ -3,7 +3,12 @@
 <img src="https://img.shields.io/badge/LATEST%20UPDATED-UPDATED-brightgreen?style=for-the-badge&logo=appveyor">
 ## UPDATED :
 <img src="https://img.shields.io/badge/isuruwa-SMS-blueviolet?style=flat-square&logo=appveyor">
+
+<img src="https://img.shields.io/badge/isuruwa-TST-ff69b4?style=flat-square&logo=appveyor">
+
+
 <!-- Your title -->
+
 ## Hi, I'm Isuru Umayanga, a Developer from Sri Lanka 🇱🇰.
 
 <!-- Your badges
