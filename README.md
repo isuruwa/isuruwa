@@ -35,9 +35,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [All](https://github.com/isuruwa);
-- 🌱 I’m currently learning Python And PHP(CircleCI); 
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 👨🏽‍💻 I’m currently working on Python , Java , Shell (https://github.com/isuruwa);
+- 🌱 I’m currently learning java , kotlin And PHP; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
 - 📫 How to reach me: isuruumayanga035@gmail.com
@@ -81,10 +80,9 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/kaveesha-admin/isuruwa.svg" />
-  </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwa-admin" />
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisuruwa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br>
+<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwa-admin" />
 </p>
 
 ## Join My Group
