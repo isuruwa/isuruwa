@@ -51,7 +51,7 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/kaviya-admin/handle-path-oz">
+  <a href="https://github.com/isuruwa/handle-path-oz">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&hide_border=true" />
   </a>
   
@@ -82,7 +82,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisuruwa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br>
-<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwa-admin" />
+<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwa" />
 </p>
 
 ## Join My Group
