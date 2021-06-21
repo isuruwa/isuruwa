@@ -1,6 +1,6 @@
-<font color = "#009900">☣ All Tools Are Outdated . Updating Soon . Expect Us . ☣</font><br >
 <br>
 <img src="https://img.shields.io/badge/LATEST%20UPDATED-UPDATED-brightgreen?style=for-the-badge&logo=appveyor">
+
 ## UPDATED :
 
 
@@ -10,6 +10,12 @@
 <img src="https://img.shields.io/badge/isuruwa-TST-ff69b4?style=flat-square&logo=appveyor">
 
 <img src="https://img.shields.io/badge/isuruwa-MSF-brightgreen?style=flat-square&logo=appveyor">
+
+<img src="https://img.shields.io/badge/isuruwa-LHIP-red?style=flat-square&logo=appveyor">
+
+<img src="https://img.shields.io/badge/isuruwa-IMGHIDE-ff69b4?style=flat-square&logo=appveyor">
+
+
 
 Updating ...
 
