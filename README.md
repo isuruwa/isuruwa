@@ -41,11 +41,11 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on Python , Java , Shell (https://github.com/isuruwa);
+- 👨🏽‍💻 I’m currently working on Python , Java , Shell;
 - 🌱 I’m currently learning java , kotlin And PHP; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: isuruumayanga035@gmail.com
+- 📫 How to reach me: https://t.me/FSocietyadmn
 
 ### Spotify Playing 🎧
 
@@ -92,7 +92,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
 
 ## Join My Group
-<a href="https://t.me/AskForAnyHelp" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://t.me/technolk" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
@@ -106,7 +106,7 @@ I created these images, feel free to use them.
 # Follow me on
 
 <p align="left">
-<a href="https://t.me/isuruwaaaa" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://t.me/Fsocietyadmn" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com" target="blank"><img align="center" src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/isuru.umayanga.37819" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -122,9 +122,9 @@ I created these images, feel free to use them.
 
 Reach out to me 👓
 
-|  <a href="https://t.me/isuruwaaaa"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/Fsocietyadmn"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Isuruwa](https://t.me/isuruwaaaa/)**                                                                                |
+|       **[Isuruwa](https://t.me/Fsocietyadmn/)**                                                                                |
 |<a href="https://twitter.com"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/isuruwa"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/isuru.umayanga.37819"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 📊 **Weekly development breakdown**
