@@ -2,33 +2,35 @@
 <!-- Your title -->
 
 ## Hi, I'm Isuru Umayanga, a Developer from Sri Lanka 🇱🇰.
+<img src="https://img.shields.io/badge/HI%20!-WELCOME%20!-brightgreen?style=for-the-badge&logo=appveyor">
+<img src="https://img.shields.io/badge/DEVIL%20MASTER-EXPECT%20US-red?style=flat-square&logo=appveyor">
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/isuruwa)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Isuruwa:isuruumayanga035@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:isuruumayanga035@gmail.com)
+# Follow me on
+
+<a href="https://github.com/isuruwa" ><img src="https://img.icons8.com/nolan/64/github.png">
+<a href="isuruumayanga035@gmail.com" ><img src="https://img.icons8.com/nolan/64/gmail.png"/>
+<a href="https://github.com/isuruwa" ><img src="https://img.icons8.com/nolan/64/instagram-new.png"/>
+<a href="https://github.com/isuruwa" ><img src="https://img.icons8.com/nolan/64/twitter.png"/>
+<a href="https://www.facebook.com/isuru.umayanga.37819" ><img src="https://img.icons8.com/nolan/64/facebook-new.png"/>
+  
 
 &nbsp;
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72663288/122891363-16efc480-d362-11eb-9499-f129a25d34c0.png" width="500px" height="550px" >
+
+
 
 ### Spotify Playing 🎧
+  
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) <p> <a href="https://github.com/isuruwa/handle-path-oz">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&hide_border=true" />
+  </a>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <a href="https://github.com/isuruwa/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&hide_border=true" />
-  </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -62,13 +64,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 
 <a href="https://github.com/isuruwa/TG-SCRAPPER" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=TG-SCRAPPER&theme=chartreuse-dark"></a>  <a href="https://github.com/isuruwa/THunter" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=THunter&theme=chartreuse-dark"></a> 
-<a href="https://github.com/isuruwa/SMS" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=SMS&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/singme" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=singme&theme=chartreuse-dark"></a>
+<a href="https://github.com/isuruwa/SMS" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=SMS&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/TST" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=TST&theme=chartreuse-dark"></a>
+<a href="https://github.com/isuruwa/MSF" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=MSF&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/IMGHIDE" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=IMGHIDE&theme=chartreuse-dark"></a>
+<a href="https://github.com/isuruwa/singme" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=singme&theme=chartreuse-dark"></a>
 
-## Join My Group
-<a href="https://t.me/technolk" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
 
 
 # MOST USED LANGUAGES
@@ -77,30 +76,18 @@ I created these images, feel free to use them.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-
-# Follow me on
-
-<p align="left">
-<a href="https://t.me/Fsocietyadmn" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com" target="blank"><img align="center" src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/isuru.umayanga.37819" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
----
-
-<h3 align="left"> My Github Stats:</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=isuruwa&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&count_private=true&theme=dark" alt="subeshb1" /></p>
-
-
-
-Reach out to me 👓
+<br>
+  
+# Reach out to me
+  
 
 |  <a href="https://t.me/Fsocietyadmn"><img src="https://user-images.githubusercontent.com/72663288/122891363-16efc480-d362-11eb-9499-f129a25d34c0.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Isuruwa](https://t.me/Fsocietyadmn/)**                                                                                |
+|       **[DEVIL MASTER](https://t.me/Fsocietyadmn/)**                                                                                |
 |<a href="https://twitter.com"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/isuruwa"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/isuru.umayanga.37819"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+  
+<br>
+  
 
 📊 **Weekly development breakdown**
 
