@@ -89,6 +89,12 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <br>
   
 
+  
+  &nbsp;</br></br>
+# [Buy me a Coffee☕ ](https://www.buymeacoffee.com/isuruwa) 
+
+  
+  
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
