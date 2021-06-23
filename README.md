@@ -1,23 +1,3 @@
-<br>
-<img src="https://img.shields.io/badge/LATEST%20UPDATED-UPDATED-brightgreen?style=for-the-badge&logo=appveyor">
-
-## UPDATED :
-
-
-
-<img src="https://img.shields.io/badge/isuruwa-SMS-blueviolet?style=flat-square&logo=appveyor">
-
-<img src="https://img.shields.io/badge/isuruwa-TST-ff69b4?style=flat-square&logo=appveyor">
-
-<img src="https://img.shields.io/badge/isuruwa-MSF-brightgreen?style=flat-square&logo=appveyor">
-
-<img src="https://img.shields.io/badge/isuruwa-LHIP-red?style=flat-square&logo=appveyor">
-
-<img src="https://img.shields.io/badge/isuruwa-IMGHIDE-ff69b4?style=flat-square&logo=appveyor">
-
-
-
-Updating ...
 
 <!-- Your title -->
 
@@ -35,17 +15,6 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👨🏽‍💻 I’m currently working on Python , Java , Shell;
-- 🌱 I’m currently learning java , kotlin And PHP; 
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: https://t.me/FSocietyadmn
 
 ### Spotify Playing 🎧
 
@@ -91,11 +60,17 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwa-admin" />
 </p>
 
+
+<a href="https://github.com/isuruwa/TG-SCRAPPER" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=TG-SCRAPPER&theme=chartreuse-dark"></a>  <a href="https://github.com/isuruwa/THunter" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=THunter&theme=chartreuse-dark"></a> 
+<a href="https://github.com/isuruwa/SMS" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=SMS&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/singme" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=singme&theme=chartreuse-dark"></a>
+
 ## Join My Group
 <a href="https://t.me/technolk" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
+
+
 # MOST USED LANGUAGES
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=isuruwa)
@@ -128,9 +103,14 @@ Reach out to me 👓
 |<a href="https://twitter.com"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/isuruwa"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/isuru.umayanga.37819"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 📊 **Weekly development breakdown**
+
 <!--START_SECTION:waka-->
 ```text
 Python      8 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   80.69 
 HTML/CSS    5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
 Javascript  3 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
 PHP         1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
+
+
+```
+
