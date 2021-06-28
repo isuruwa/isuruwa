@@ -63,10 +63,11 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
 
 
-<a href="https://github.com/isuruwa/TG-SCRAPPER" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=TG-SCRAPPER&theme=chartreuse-dark"></a>  <a href="https://github.com/isuruwa/THunter" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=THunter&theme=chartreuse-dark"></a> 
-<a href="https://github.com/isuruwa/SMS" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=SMS&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/TST" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=TST&theme=chartreuse-dark"></a>
-<a href="https://github.com/isuruwa/MSF" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=MSF&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/IMGHIDE" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=IMGHIDE&theme=chartreuse-dark"></a>
-<a href="https://github.com/isuruwa/singme" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=singme&theme=chartreuse-dark"></a>
+<a href="https://github.com/isuruwa/WA-BOT" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=WA-BOT&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/TG-SCRAPPER" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=TG-SCRAPPER&theme=chartreuse-dark"></a> 
+<a href="https://github.com/isuruwa/THunter" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=THunter&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/SMS" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=SMS&theme=chartreuse-dark"></a> 
+<a href="https://github.com/isuruwa/TST" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=TST&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/MSF" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=MSF&theme=chartreuse-dark"></a> 
+<a href="https://github.com/isuruwa/IMGHIDE" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=IMGHIDE&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/singme" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=singme&theme=chartreuse-dark"></a> 
+
 
 
 
