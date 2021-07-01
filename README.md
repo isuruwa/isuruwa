@@ -2,9 +2,7 @@
 <!-- Your title -->
 
 # Hi, I'm DEVIL MASTER 
-<img src="https://img.shields.io/badge/HI%20!-WELCOME%20!-brightgreen?style=for-the-badge&logo=appveyor">
 <img src="https://img.shields.io/badge/DEVIL%20MASTER-EXPECT%20US-red?style=flat-square&logo=appveyor">
-
 
 
 # Follow me on
@@ -19,7 +17,7 @@
 &nbsp;
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72663288/122891363-16efc480-d362-11eb-9499-f129a25d34c0.png" width="500px" height="500px" >
+<img src="https://github.com/isuruwa/isuruwa/blob/main/IMG/opengif2.gif">
 
 
 <p align="center"><a href="https://github.com/isuruwa"><img title="isuruwa" src="https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
