@@ -44,43 +44,17 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
 
 
-
-  
+<p align="center">  
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+</p>
   
-
-
-<br>
-
-<p align="center">
- 
-# REACH TO ME :
-  
-  
-|  <a href="https://t.me/Fsocietyadmn"><img src="https://user-images.githubusercontent.com/72663288/122891363-16efc480-d362-11eb-9499-f129a25d34c0.png" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[DEVIL MASTER](https://t.me/Fsocietyadmn/)**                                                                                |
-|<a href="https://twitter.com"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/isuruwa"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/isuru.umayanga.37819"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
-  
-<br>
- 
-
-
   
   &nbsp;</br></br>
 ## [Buy me a Coffee☕ ](https://www.buymeacoffee.com/isuruwa) 
 
   
-  
-📊 **Weekly development breakdown**
+<p align="center">
+<a href="https://github.com/isuruwa"><img title="rixon-cochi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuruwa&layout=compact"></a>
+</p>
 
-<!--START_SECTION:waka-->
-```text
-Python      8 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   80.69 
-HTML/CSS    5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Javascript  3 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-PHP         1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
-
-
-```
 
