@@ -1,11 +1,11 @@
 
 <!-- Your title -->
 
-# Hi, I'm DEVIL MASTER 
-<img src="https://img.shields.io/badge/DEVIL%20MASTER-EXPECT%20US-red?style=flat-square&logo=appveyor">
+# Hi, I'm DEVIL MASTER  🇱🇰 
+<img src="https://img.shields.io/badge/DEVIL%20MASTER-EXPECT%20US-brightgreen?style=flat-square&logo=appveyor">
 
 
-# Follow me on
+# Follow me on :
 
 <a href="https://github.com/isuruwa" ><img src="https://img.icons8.com/nolan/64/github.png">
 <a href="isuruumayanga035@gmail.com" ><img src="https://img.icons8.com/nolan/64/gmail.png"/>
@@ -14,13 +14,12 @@
 <a href="https://www.facebook.com/isuru.umayanga.37819" ><img src="https://img.icons8.com/nolan/64/facebook-new.png"/>
   
 
-&nbsp;
-
 <p align="center">
 <img src="https://github.com/isuruwa/isuruwa/blob/main/IMG/opengif2.gif">
-
-
-<p align="center"><a href="https://github.com/isuruwa"><img title="isuruwa" src="https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&theme=cobalt">
 </p>
 
 
@@ -47,9 +46,11 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 </p>
   
+
+# DONATE ME VIA :
   
-  &nbsp;</br></br>
-## [Buy me a Coffee☕ ](https://www.buymeacoffee.com/isuruwa) 
+<a href="https://www.buymeacoffee.com/isuruwa"><img src="https://img.icons8.com/color-glass/64/000000/coffee.png"/>
+<a href="https://pastebin.com/iHWvSB3p"><img src="https://img.icons8.com/cute-clipart/64/000000/bitcoin.png"/>
 
   
 <p align="center">
