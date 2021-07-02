@@ -1,7 +1,6 @@
-
 <!-- Your title -->
 
-# Hi, I'm DEVIL MASTER  🇱🇰 
+# Hi, I'm DEVIL MASTER 🇱🇰
 <img src="https://img.shields.io/badge/DEVIL%20MASTER-EXPECT%20US-brightgreen?style=flat-square&logo=appveyor">
 
 
@@ -13,6 +12,9 @@
 <a href="https://github.com/isuruwa" ><img src="https://img.icons8.com/nolan/64/twitter.png"/>
 <a href="https://www.facebook.com/isuru.umayanga.37819" ><img src="https://img.icons8.com/nolan/64/facebook-new.png"/>
   
+# JOIN TELEGRAM CHANNEL :
+
+<a href="https://t.me/technolk" > <img src="https://img.icons8.com/cute-clipart/100/000000/telegram-app.png"/> 
 
 <p align="center">
 <img src="https://github.com/isuruwa/isuruwa/blob/main/IMG/opengif2.gif">
