@@ -14,7 +14,7 @@
   
 # JOIN TELEGRAM CHANNEL :
 
-<a href="https://t.me/technolk" > <img src="https://img.icons8.com/cute-clipart/100/000000/telegram-app.png"/> 
+<a href="https://t.me/technolk" > <img src="https://img.icons8.com/cute-clipart/80/000000/telegram-app.png"/> 
 
 <p align="center">
 <img src="https://github.com/isuruwa/isuruwa/blob/main/IMG/opengif2.gif">
