@@ -35,7 +35,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwa-admin" />
 </p>
 
-
 <p align="center">
 <a href="https://github.com/isuruwa/CoronaStat-Bot" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=CoronaStat-Bot&theme=chartreuse-dark"></a>
 <a href="https://github.com/isuruwa/AUTOZOOM-BOT" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=AUTOZOOM-BOT&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/TG-SCRAPPER" > <a href="https://github.com/isuruwa/OnionHoster" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=OnionHoster&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/TG-SCRAPPER" >
