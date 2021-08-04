@@ -3,7 +3,7 @@
 # Hi, I'm DEVIL MASTER 🇱🇰
 <img src="https://img.shields.io/badge/DEVIL%20MASTER-EXPECT%20US-brightgreen?style=flat-square&logo=appveyor">
 
-# WHO AM I - <a href="https://isuruwa.github.io/">visit</a>
+# WHO AM I - <a href="https://isuruwa.ga/">visit</a>
 # Follow me on :
 
 <a href="https://github.com/isuruwa" ><img src="https://img.icons8.com/nolan/64/github.png">
