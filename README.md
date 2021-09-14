@@ -42,7 +42,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <a href="https://github.com/isuruwa/AUTOZOOM-BOT" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=AUTOZOOM-BOT&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/TG-SCRAPPER" ><a href="https://github.com/isuruwa/TG-SCRAPPER" >
 <a href="https://github.com/isuruwa/WA-BOT" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=WA-BOT&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/TG-SCRAPPER" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=TG-SCRAPPER&theme=chartreuse-dark"></a> 
 <a href="https://github.com/isuruwa/THunter" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=THunter&theme=chartreuse-dark"></a>
-<a href="https://github.com/isuruwa/singme" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=singme&theme=chartreuse-dark"></a>
+<a href="https://github.com/isuruwa/MSF-EXPLOIT" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=MSF-EXPLOIT&theme=chartreuse-dark"></a>
 
 
 <p align="center">  
