@@ -3,22 +3,8 @@
 # Hi, I'm DEVIL MASTER 🇱🇰
 <img src="https://img.shields.io/badge/DEVIL%20MASTER-EXPECT%20US-brightgreen?style=flat-square&logo=appveyor">
 
-# WHO AM I - <a href="https://isuruwa.ga/">visit</a>
-# Follow me on :
-
-<a href="https://github.com/isuruwa" ><img src="https://img.icons8.com/nolan/64/github.png">
-<a href="isuruumayanga035@gmail.com" ><img src="https://img.icons8.com/nolan/64/gmail.png"/>
-<a href="https://github.com/isuruwa" ><img src="https://img.icons8.com/nolan/64/instagram-new.png"/>
-<a href="https://github.com/isuruwa" ><img src="https://img.icons8.com/nolan/64/twitter.png"/>
-<a href="https://www.facebook.com/isuru.umayanga.37819" ><img src="https://img.icons8.com/nolan/64/facebook-new.png"/>
-  
-# JOIN TELEGRAM CHANNEL :
-
-<a href="https://t.me/technolk" > <img src="https://img.icons8.com/cute-clipart/80/000000/telegram-app.png"/> 
-
 ![profile](https://user-images.githubusercontent.com/72663288/133919035-01110d35-59f6-4003-b300-ffee968afd29.jpg)
 
-  
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&theme=cobalt">
