@@ -16,9 +16,9 @@
 
 <a href="https://t.me/technolk" > <img src="https://img.icons8.com/cute-clipart/80/000000/telegram-app.png"/> 
 
-<p align="center">
-<img src="https://github.com/isuruwa/isuruwa/blob/main/IMG/opengif2.gif">
-</p>
+![profile](https://user-images.githubusercontent.com/72663288/133919035-01110d35-59f6-4003-b300-ffee968afd29.jpg)
+
+  
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&theme=cobalt">
