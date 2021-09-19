@@ -31,7 +31,7 @@
 <a href="https://www.buymeacoffee.com/isuruwa"><img src="https://img.icons8.com/color-glass/64/000000/coffee.png"/>
 <a href="https://pastebin.com/iHWvSB3p"><img src="https://img.icons8.com/cute-clipart/64/000000/bitcoin.png"/>
 
-# Join Telegram Channel :
+# Join Telegram Channel For Updates :
   
 <a href="https://t.me/technolk" > <img src="https://img.icons8.com/cute-clipart/80/000000/telegram-app.png"/> 
 
