@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/isuruwa/MSF-EXPLOIT" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=MSF-EXPLOIT&theme=chartreuse-dark"></a>
+<a href="https://github.com/isuruwa/Termux-Reborn" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=Termux-Reborn&theme=chartreuse-dark"></a><a href="https://github.com/isuruwa/MSF-EXPLOIT" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=MSF-EXPLOIT&theme=chartreuse-dark"></a>
 <a href="https://github.com/isuruwa/T-HYDRA" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=T-HYDRA&theme=chartreuse-dark"></a>
 <a href="https://github.com/isuruwa/PDF-TOOLBOX" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=PDF-TOOLBOX&theme=chartreuse-dark"></a>
 <a href="https://github.com/isuruwa/AUTOZOOM-BOT" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=AUTOZOOM-BOT&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/TG-SCRAPPER" ><a href="https://github.com/isuruwa/TG-SCRAPPER" >
