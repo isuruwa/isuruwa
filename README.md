@@ -1,15 +1,8 @@
-```
-Logs - (20/09/2021)
-
-Released - https://github.com/isuruwa/Termux-Reborn
-
-Updated  - https://github.com/isuruwa/SINGME
-
-```
-# Hi, I'm DEVIL MASTER 🇱🇰
+# Hi, I'm Isuru Umayanga 🇱🇰
 <img src="https://img.shields.io/badge/DEVIL%20MASTER-EXPECT%20US-brightgreen?style=flat-square&logo=appveyor">
 
-![profile](https://user-images.githubusercontent.com/72663288/133919035-01110d35-59f6-4003-b300-ffee968afd29.jpg)
+<p align="center">
+<img src="https://github.com/isuruwa/isuruwa/blob/main/IMG/bilybutcher.jpg">
 
 <br>
 <p align="center">
