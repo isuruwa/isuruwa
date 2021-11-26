@@ -1,9 +1,5 @@
 # Hi, I'm Isuru Umayanga 🇱🇰
 <img src="https://img.shields.io/badge/DEVIL%20MASTER-EXPECT%20US-brightgreen?style=flat-square&logo=appveyor">
-
-<p align="center">
-<img src="https://github.com/isuruwa/isuruwa/blob/main/IMG/bilybutcher.jpg">
-
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&theme=cobalt">
