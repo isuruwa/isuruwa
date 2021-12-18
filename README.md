@@ -34,10 +34,11 @@
 <a href="https://t.me/technolk" > <img src="https://img.icons8.com/cute-clipart/80/000000/telegram-app.png"/> 
 
 <br> 
-<p align="center">
  
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/isuruwa/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)</p>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/isuruwa/repos?time_range=one_year&theme=ferns)](https://githubtrends.io)
+ 
 <br>
   
 # EXPECT SOMETHING UNEXPECTED !
