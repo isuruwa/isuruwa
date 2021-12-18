@@ -35,8 +35,8 @@
 
 <br> 
 <p align="center">
-<a href="https://github.com/isuruwa"><img title="devilmaster" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuruwa&layout=compact"></a>
-</p>
+ 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/isuruwa/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)</p>
 
 <br>
   
