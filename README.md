@@ -19,7 +19,7 @@
 <a href="https://github.com/isuruwa/Gcloud-SDK" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=Gcloud-SDK&theme=chartreuse-dark"></a>
 <a href="https://github.com/isuruwa/AUTOZOOM-BOT" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=AUTOZOOM-BOT&theme=chartreuse-dark"></a> <a href="https://github.com/isuruwa/TG-SCRAPPER" ><a href="https://github.com/isuruwa/TG-SCRAPPER" >
 <a href="https://github.com/isuruwa/TG-SCRAPPER" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=TG-SCRAPPER&theme=chartreuse-dark"></a> 
-<a href="https://github.com/isuruwa/HASHME" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=HASHME&theme=chartreuse-dark"></a><a href="https://github.com/isuruwa/SINGME" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=SINGME&theme=chartreuse-dark"></a>
+<a href="https://github.com/isuruwa/HASHME" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=HASHME&theme=chartreuse-dark"></a><a href="https://github.com/isuruwa/Phoenix" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isuruwa&repo=Phoenix&theme=chartreuse-dark"></a>
   
   <br>
   <br>
