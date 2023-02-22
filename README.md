@@ -7,12 +7,10 @@
 </p>
  
 
-<p align="center">
-
+## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=isuruwa&theme=highcontrast)
-
-</p><br>
+<br>
 
 
 ## Discord
