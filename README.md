@@ -6,9 +6,13 @@
 <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwa-admin" />
 </p>
  
+
+<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuruwa&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=isuruwa&theme=highcontrast)
-<br>
+
+</p><br>
 
 
 ## Discord
