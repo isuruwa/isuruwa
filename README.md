@@ -1,4 +1,9 @@
-# Hi, I'm Isuru Umayanga 🇱🇰
+
+![Discord Banner 2](https://discordapp.com/api/guilds/[1077853031447662632]/widget.png?style=banner2)
+
+<img src="https://discordapp.com/api/guilds/[1077853031447662632]/widget.png?style=banner2" alt="Discord Banner 2"/>
+
+<br>
 <img src="https://img.shields.io/badge/DEVIL%20MASTER-EXPECT%20US-brightgreen?style=flat-square&logo=appveyor">
 <br>
 <p align="center">
