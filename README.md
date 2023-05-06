@@ -13,7 +13,7 @@
 ## Discord
 <p align='center'><a href="https://discordapp.com/users/873118843554385930"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-2/873118843554385930.png" height="1000px"/></a></p><br>
 
-## Read My Latest Blog Posts
+## Read Latest Blog Posts
 <p align='center'><a href="https://mr-x.gq"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 <a href="https://dev.to/isuruwa"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="https://isuruwa.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a></p>
